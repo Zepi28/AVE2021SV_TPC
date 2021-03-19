@@ -1,0 +1,7 @@
+C:\Users\A44835\Documents\Isel\Semestre atual\AVE\tpcs\TPC\AVE2021SV_TPC\TPC02\TPC02\bin\Debug\TPC02.exe.config
+C:\Users\A44835\Documents\Isel\Semestre atual\AVE\tpcs\TPC\AVE2021SV_TPC\TPC02\TPC02\bin\Debug\TPC02.exe
+C:\Users\A44835\Documents\Isel\Semestre atual\AVE\tpcs\TPC\AVE2021SV_TPC\TPC02\TPC02\bin\Debug\TPC02.pdb
+C:\Users\A44835\Documents\Isel\Semestre atual\AVE\tpcs\TPC\AVE2021SV_TPC\TPC02\TPC02\obj\Debug\TPC02.csprojAssemblyReference.cache
+C:\Users\A44835\Documents\Isel\Semestre atual\AVE\tpcs\TPC\AVE2021SV_TPC\TPC02\TPC02\obj\Debug\TPC02.csproj.CoreCompileInputs.cache
+C:\Users\A44835\Documents\Isel\Semestre atual\AVE\tpcs\TPC\AVE2021SV_TPC\TPC02\TPC02\obj\Debug\TPC02.exe
+C:\Users\A44835\Documents\Isel\Semestre atual\AVE\tpcs\TPC\AVE2021SV_TPC\TPC02\TPC02\obj\Debug\TPC02.pdb
